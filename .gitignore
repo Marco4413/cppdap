@@ -4,3 +4,5 @@ fuzz/logs
 .vs/
 .vscode/settings.json
 CMakeSettings.json
+Makefile
+*.sln

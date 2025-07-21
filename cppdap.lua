@@ -41,7 +41,7 @@ project "cppdap"
   objdir    (buildpath .. "/obj")
 
   defines "CPPDAP_JSON_NLOHMANN"
-  includedirs { "include", "third_party/json/include" }
+  includedirs { "include", "third_party/nlohmann_json/include" }
   files {
     "src/content_stream.cpp",
     "src/io.cpp",

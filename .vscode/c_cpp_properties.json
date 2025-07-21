@@ -4,8 +4,7 @@
             "name": "Linux",
             "includePath": [
                 "${workspaceFolder}/**",
-                "${workspaceFolder}/third_party/json/include",
-                "${workspaceFolder}/third_party/googletest/googlemock/include"
+                "${workspaceFolder}/third_party/nlohmann_json/include"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/gcc",
